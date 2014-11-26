@@ -1,0 +1,8 @@
+{% extends 'AppBundle:Backend:index.html.twig' %}
+
+{% block cuerpo %}
+{% for elemento in list %}
+    {{ elemento.nombre }}
+
+    {% endfor %}
+{% endblock %}

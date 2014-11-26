@@ -1,0 +1,52 @@
+{% extends 'AppBundle:Backend:index.html.twig' %}
+{% block titulo %}Datos de la empresa{% endblock %}
+{% block cuerpo %}
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                Datos de la empresa
+            </h1>
+        </div>
+    </div>
+    <form action="" method="post" {{ form_enctype(formulario) }}>
+
+        <div class="form-group">
+            {{ form_label (formulario.nombre,'Name') }}
+            {{ form_widget(formulario.nombre, {'attr':{'class':'form-control'}}) }}
+            {{ form_errors(formulario.nombre) }}
+        </div>
+
+        <div class="form-group">
+            {{ form_label (formulario.apellidos,'Second Name') }}
+            {{ form_widget(formulario.apellidos, {'attr':{'class':'form-control'}}) }}
+            {{ form_errors(formulario.apellidos) }}
+        </div>
+
+        <div class="form-group">
+            {{ form_label (formulario.username,'Username') }}
+            {{ form_widget(formulario.username, {'attr':{'class':'form-control'}}) }}
+            {{ form_errors(formulario.username) }}
+        </div>
+
+        <div class="form-group">
+            {{ form_label (formulario.email,'Email') }}
+            {{ form_widget(formulario.email, {'attr':{'class':'form-control'}}) }}
+            {{ form_errors(formulario.email) }}
+        </div>
+
+        <div class="form-group">
+            {{ form_label (formulario.plainPassword.first) }}
+            {{ form_widget(formulario.plainPassword.first, {'attr':{'class':'form-control'}}) }}
+            {{ form_errors(formulario.plainPassword.first) }}
+        </div>
+        <div class="form-group">
+            {{ form_label (formulario.plainPassword.second) }}
+            {{ form_widget(formulario.plainPassword.second, {'attr':{'class':'form-control'}}) }}
+            {{ form_errors(formulario.plainPassword.second) }}
+        </div>
+
+        {{ form_rest(formulario) }}
+        <input type="submit" />
+    </form>
+
+{% endblock %}

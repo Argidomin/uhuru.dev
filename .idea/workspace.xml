@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9f18d02-5fe0-4ecb-82a4-50267fa04a01" name="Default" comment="" />
+    <ignored path="uhuru.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_TOOLBAR" value="true" />
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="uhuru">
+      <favorite_root url="file://$PROJECT_DIR$/src/Argidomin" module="uhuru" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle" module="uhuru" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Tests" module="uhuru" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Tests/Controller" module="uhuru" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Tests/Controller/DefaultControllerTest.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources" module="uhuru" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views" module="uhuru" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Default" module="uhuru" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Default/index.html.twig" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/config" module="uhuru" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/config/services.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Controller" module="uhuru" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Controller/DefaultController.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/AppBundle.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/DependencyInjection" module="uhuru" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/DependencyInjection/AppExtension.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/src/Argidomin/AppBundle/DependencyInjection/Configuration.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+        </favorite_root>
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="menu.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Includes/menu.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1615">
+              <caret line="58" column="51" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Enterprise/edit.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1946">
+              <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/config/services.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="561">
+              <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/neww.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/config/admin.yml" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/edit.html.twig" />
+        <option value="$PROJECT_DIR$/app/config/services.yml" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Form/Admin/Type/EmpresaType.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Form/Admin/Type/NewsletterType.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Repository/NewsletterRepository.php" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Form/Admin/Type/UsuariosType.php" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/DataFixtures/ORM/NewsletterLoader" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/DataFixtures/ORM/NewsletterLoader.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/DataFixtures/ORM/EmpresaLoader.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Empresa.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/DataFixtures/ORM/DatosEmpresaLoader.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/index.html.twig.html" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/login.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/Security/login.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Security/login.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/AppBundle.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Security/login.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Newsletter.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/list.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Usuarios.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Repository/EmpresaRepository.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Controller/PlantillaController" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Repository/MensajesRepository.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Mensajes/new.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Mensajes.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/DataFixtures/ORM/MensajesLoader.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Form/Admin/Type/MensajesType.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Controller/PlantillaController.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Controller/BackendController.php" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/DataFixtures/ORM/UsuariosLoader.php" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Empresa/edit.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Mensajes/edit.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Mensajes/list.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Newsletter/edit.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Newsletter/list.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Usuarios/new.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Usuarios/list.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Usuarios/edit.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Newsletter/new.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Includes/menu.html.twig" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/config/services.yml" />
+        <option value="$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Enterprise/edit.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="Configurable.PHP.Debug.DBGPProxy" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/logs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\uhuru.dev\src\Argidomin\AppBundle\Resources\views\Backend\Mensajes" />
+      <recent name="C:\wamp\www\uhuru.dev\src\Argidomin\AppBundle\Resources\views\Backend\Usuarios" />
+      <recent name="C:\wamp\www\uhuru.dev\src\Argidomin\AppBundle\Resources\views\Backend\Newsletter" />
+      <recent name="C:\wamp\www\uhuru.dev\src\Argidomin\AppBundle\Resources\views\Backend\Empresa" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\uhuru.dev\src\Argidomin\AppBundle\Form\Admin\Type" />
+      <recent name="C:\wamp\www\uhuru.dev\src\Argidomin\AppBundle\Entity\Repository" />
+      <recent name="C:\wamp\www\uhuru.dev\app\Resources\FOSUserBundle\views" />
+      <recent name="C:\wamp\www\uhuru.dev\src\Argidomin\AppBundle\Resources\views\Security" />
+      <recent name="C:\wamp\www\uhuru.dev\src\Argidomin\AppBundle\Form\Admin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="923a9e69-f6d5-47c8-87f8-cb6aeb9c11b3" server_name="Uhuro Desarrollo">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9f18d02-5fe0-4ecb-82a4-50267fa04a01" name="Default" comment="" />
+      <created>1416909132671</created>
+      <option name="number" value="Default" />
+      <updated>1416909132671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31758958" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22919819" sideWeight="0.4797136" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294621" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20171149" sideWeight="0.50083196" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20171149" sideWeight="0.49344262" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22919819" sideWeight="0.51789975" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32135075" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924107" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="561">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1156" max-vertical-offset="2023">
+          <caret line="68" column="105" selection-start-line="68" selection-start-column="105" selection-end-line="68" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Controller/BackendController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Form/Admin/Type/EmpresaType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1173">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="170">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1157">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Didicar.pt/src/Argidomin/AppBundle/Controller/PlantillaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5249406" vertical-offset="0" max-vertical-offset="5041">
+          <caret line="30" column="49" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22235434" vertical-offset="0" max-vertical-offset="1011">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Repository/NewsletterRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="1080">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="683">
+          <caret line="1" column="63" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.384615" vertical-offset="34" max-vertical-offset="1643">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="1184">
+          <caret line="21" column="72" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Security/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.083028086" vertical-offset="0" max-vertical-offset="1210">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/DataFixtures/ORM/DatosEmpresaLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46199524" vertical-offset="19" max-vertical-offset="1403">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/AppBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33633092" vertical-offset="0" max-vertical-offset="760">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21915285" vertical-offset="17" max-vertical-offset="1206">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Usuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769" vertical-offset="612" max-vertical-offset="3276">
+          <caret line="57" column="64" selection-start-line="57" selection-start-column="64" selection-end-line="57" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25539568" vertical-offset="62" max-vertical-offset="828">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/list.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1528777" vertical-offset="0" max-vertical-offset="658">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="701">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/config/services.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1123">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29209623" vertical-offset="374" max-vertical-offset="1959">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Form/Admin/Type/UsuariosType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846" vertical-offset="85" max-vertical-offset="1998">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Form/Admin/Type/NewsletterType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.65384614" vertical-offset="136" max-vertical-offset="1930">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Form/Admin/Type/EmpresaType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5653207" vertical-offset="493" max-vertical-offset="2100">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Repository/EmpresaRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="1267">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Repository/MensajesRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.040380046" vertical-offset="0" max-vertical-offset="1080">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Empresa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03057554" vertical-offset="153" max-vertical-offset="6098">
+          <caret line="14" column="88" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Newsletter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03057554" vertical-offset="102" max-vertical-offset="3327">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/DataFixtures/ORM/NewsletterLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.8461537" vertical-offset="78" max-vertical-offset="981">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/DataFixtures/ORM/MensajesLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27517986" vertical-offset="153" max-vertical-offset="1100">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Entity/Mensajes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0701439" vertical-offset="1003" max-vertical-offset="4823">
+          <caret line="94" column="28" selection-start-line="94" selection-start-column="28" selection-end-line="94" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Controller/PlantillaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5047506" vertical-offset="51" max-vertical-offset="1335">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Form/Admin/Type/MensajesType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.10095012" vertical-offset="561" max-vertical-offset="1964">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1633">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Controller/BackendController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.397482" vertical-offset="0" max-vertical-offset="2086">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058419243" vertical-offset="0" max-vertical-offset="990">
+          <caret line="2" column="79" selection-start-line="2" selection-start-column="79" selection-end-line="2" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/DataFixtures/ORM/UsuariosLoader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7032374" vertical-offset="357" max-vertical-offset="1644">
+          <caret line="44" column="40" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Messages/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="153" max-vertical-offset="1179">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Messages/list.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.384615" vertical-offset="8" max-vertical-offset="1043">
+          <caret line="24" column="78" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Newsletter/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="873">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Newsletter/list.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1043">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Users/list.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.538462" vertical-offset="142" max-vertical-offset="1077">
+          <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Users/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.2307693" vertical-offset="393" max-vertical-offset="1383">
+          <caret line="25" column="56" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Users/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.192308" vertical-offset="368" max-vertical-offset="1383">
+          <caret line="51" column="14" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Newsletter/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="873">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="1454">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1092">
+          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Includes/menu.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1615">
+          <caret line="58" column="51" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Argidomin/AppBundle/Resources/views/Backend/Enterprise/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="1946">
+          <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

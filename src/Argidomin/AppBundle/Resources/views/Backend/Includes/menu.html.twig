@@ -1,0 +1,93 @@
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="{{ path('indexBackend') }}">{{ plantilla.empresa.nombre }}</a>
+    </div>
+    <!-- Top Menu Items -->
+    <ul class="nav navbar-right top-nav">
+        <li class="dropdown">
+            <!-- Mensajes -->
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-envelope">
+                </i> <b class="caret"></b></a>
+            <ul class="dropdown-menu message-dropdown">
+                <li class="message-preview">
+                    <a href="#">No hay mensajes para leer.</a>
+                </li>
+                <li class="message-footer">
+                    <a href="{{ path('listBackend',{'entidad':'messages'}) }}">Leer todos los mensajes.</a>
+                </li>
+            </ul>
+            <!-- /Mensajes -->
+        </li>
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> {{ app.user }} <b class="caret"></b></a>
+            <!-- Gestión de los usuarios -->
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="{{ path('editBackend',{'entidad':'usuarios','objeto': app.user.email }) }}"><i class="fa fa-fw fa-user"></i> Profile</a>
+                </li>
+                <li class="divider"></li>
+                <li>
+                    <a href="/logout"><i class="fa fa-fw fa-power-off"></i> Logout</a>
+                </li>
+            </ul>
+            <!-- /Gestión de los usuarios -->
+        </li>
+    </ul>
+    <!-- Sidebar Menu Items - These collapse to the responsive navigation menu on small screens -->
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <!-- Menu de gestión -->
+        <ul class="nav navbar-nav side-nav">
+            <li class="active">
+                <a href="{{ path('indexBackend') }}"><i class="fa fa-fw fa-dashboard"></i> Home</a>
+            </li>
+            <li>
+                <a href="javascript:;" data-toggle="collapse" data-target="#demo"><i class="fa fa-fw fa-arrows-v"></i> Enterprise admin <i class="fa fa-fw fa-caret-down"></i></a>
+                <ul id="demo" class="collapse">
+                    <li>
+                        <a href="{{ path('editBackend',{'entidad':'enterprise','objeto': 1}) }}">General</a>
+                    </li>
+
+                    <li>
+                        <a href="#Contacto">Contact</a>
+                    </li>
+
+                    <li>
+                        <a href="#redes">Social</a>
+                    </li>
+
+                    <li>
+                        <a href="#mantenimiento">Manintenance</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a onmouseover="javascript:;" data-toggle="collapse" data-target="#newsletter"
+                   href="{{ path('listBackend',{'entidad':'newsletter'}) }}">Newsletter</a>
+                <ul id="newsletter" class="collapse">
+                    <li>
+                        <a href="{{ path('addBackend',{'entidad':'newsletter'}) }}">New</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a onmouseover="javascript:;" data-toggle="collapse" data-target="#usuarios"
+                   href="{{ path('listBackend',{'entidad':'users'}) }}">User</a>
+                <ul id="usuarios" class="collapse">
+                    <li>
+                        <a href="{{ path('addBackend',{'entidad':'users'}) }}">New</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <!-- /Menu de gestión -->
+    </div>
+    <!-- /.navbar-collapse -->
+</nav>

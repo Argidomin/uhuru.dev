@@ -1,0 +1,95 @@
+{% extends 'AppBundle:Backend:index.html.twig' %}
+{% block titulo %}Datos de la empresa{% endblock %}
+{% block cuerpo %}
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                Datos de la empresa
+            </h1>
+        </div>
+    </div>
+    <form action="" method="post" {{ form_enctype(formulario) }}>
+        <ul class="nav nav-tabs">
+            <li class="active">
+                <a href="#General" data-toggle="tab">General</a>
+            </li>
+            <li><a href="#Contacto" data-toggle="tab">Contact</a></li>
+            <li><a href="#redes" data-toggle="tab">Social network</a></li>
+            <li><a href="#mantenimiento" data-toggle="tab">Maintenance</a></li>
+        </ul>
+        <div class="tab-content">
+
+            <div id="General" class="tab-pane active">
+                <div class="form-group">
+                    {{ form_label (formulario.nombre,'Name') }}
+                    {{ form_widget(formulario.nombre, {'attr':{'class':'form-control'}}) }}
+                    {{ form_errors(formulario.nombre) }}
+                </div>
+
+                <div class="form-group">
+                    {{ form_label (formulario.slogan,'Slogan') }}
+                    {{ form_widget(formulario.slogan, {'attr':{'class':'form-control'}}) }}
+                    {{ form_errors(formulario.slogan) }}
+                </div>
+            </div>
+
+            <div id="Contacto" class="tab-pane">
+                <div class="form-group">
+                    {{ form_label (formulario.contacto,'Contact tag') }}
+                    {{ form_widget(formulario.contacto, {'attr':{'class':'form-control'}}) }}
+                    {{ form_errors(formulario.contacto) }}
+                </div>
+
+                <div class="form-group">
+                    {{ form_label (formulario.telefonoContacto,'Telephone') }}
+                    {{ form_widget(formulario.telefonoContacto, {'attr':{'class':'form-control'}}) }}
+                    {{ form_errors(formulario.telefonoContacto) }}
+                </div>
+
+                <div class="form-group">
+                    {{ form_label (formulario.email,'Email') }}
+                    {{ form_widget(formulario.email, {'attr':{'class':'form-control'}}) }}
+                    {{ form_errors(formulario.email) }}
+                </div>
+            </div>
+
+            <div id="redes" class="tab-pane">
+                <div class="form-group">
+                    {{ form_label (formulario.redesSociales,'Social Tag') }}
+                    {{ form_widget(formulario.redesSociales, {'attr':{'class':'form-control'}}) }}
+                    {{ form_errors(formulario.redesSociales) }}
+                </div>
+
+                <div class="form-group">
+                    {{ form_label (formulario.urlFacebook,'Facebook') }}
+                    {{ form_widget(formulario.urlFacebook, {'attr':{'class':'form-control'}}) }}
+                    {{ form_errors(formulario.urlFacebook) }}
+                </div>
+
+                <div class="form-group">
+                    {{ form_label (formulario.urlTwitter,'Twitter') }}
+                    {{ form_widget(formulario.urlTwitter, {'attr':{'class':'form-control'}}) }}
+                    {{ form_errors(formulario.urlTwitter) }}
+                </div>
+
+                <div class="form-group">
+                    {{ form_label (formulario.urlGoogle,'Google +') }}
+                    {{ form_widget(formulario.urlGoogle, {'attr':{'class':'form-control'}}) }}
+                    {{ form_errors(formulario.urlGoogle) }}
+                </div>
+
+            </div>
+
+            <div id="mantenimiento" class="tab-pane">
+                <div class="form-group">
+                    {{ form_label (formulario.estado,'Manintenance') }}
+                    {{ form_widget(formulario.estado, {'attr':{'class':'form-control'}}) }}
+                    {{ form_errors(formulario.estado) }}
+                </div>
+            </div>
+
+            {{ form_rest(formulario) }}
+            <button class="btn btn-lg btn-primary" type="submit">Save</button>
+        </form>
+
+{% endblock %}

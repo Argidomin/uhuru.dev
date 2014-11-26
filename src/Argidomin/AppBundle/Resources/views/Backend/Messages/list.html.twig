@@ -1,0 +1,32 @@
+{% extends 'AppBundle:Backend:index.html.twig' %}
+
+{% block cuerpo %}
+
+    <h2>Newsletter</h2>
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover">
+            <thead>
+            <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Date</th>
+                <th>Estatus</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for elemento in list %}
+
+                <tr>
+                    <td>{{ loop.index }}</td>
+                    <td><a href="{{ path('editBackend',{'entidad':entidad,'objeto':elemento.id}) }}">{{ elemento }}</a></td>
+                    <td>{{ elemento.email }}</td>
+                    <td>{{ elemento.fechaCreacion | date ('d/m/y') }}</td>
+                    <td>{% if elemento.leido == true %}Read{% else %} Not read{% endif %}</td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+{% endblock %}

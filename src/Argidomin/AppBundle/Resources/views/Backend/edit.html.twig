@@ -1,0 +1,18 @@
+{% extends 'AppBundle:Backend:index.html.twig' %}
+{% block titulo %}Datos de la empresa{% endblock %}
+{% block cuerpo %}
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">
+                Datos de la empresa
+            </h1>
+        </div>
+    </div>
+    <form action="" method="post" {{ form_enctype(formulario) }}>
+
+        {{ form_widget(formulario) }}
+
+        <input type="submit" />
+    </form>
+
+{% endblock %}

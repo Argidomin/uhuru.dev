@@ -1,0 +1,32 @@
+services:
+    plantilla:
+        class: Argidomin\AppBundle\Controller\PlantillaController
+        arguments: ["@doctrine.orm.entity_manager"]
+
+    argidomin_appbundle.form.type.empresa:
+        class: Argidomin\AppBundle\Form\Admin\Type\EmpresaType
+        arguments: ["@doctrine.orm.entity_manager"]
+        tags:
+            - { name: form.type }
+    enterprise: "@argidomin_appbundle.form.type.empresa"
+
+    argidomin_appbundle.form.type.newsletter:
+        class: Argidomin\AppBundle\Form\Admin\Type\NewsletterType
+        arguments: ["@doctrine.orm.entity_manager"]
+        tags:
+            - { name: form.type }
+    newsletter: "@argidomin_appbundle.form.type.newsletter"
+
+    argidomin_appbundle.form.type.usuarios:
+        class: Argidomin\AppBundle\Form\Admin\Type\UsuariosType
+        arguments: ["@doctrine.orm.entity_manager"]
+        tags:
+            - { name: form.type }
+    users: "@argidomin_appbundle.form.type.usuarios"
+
+    argidomin_appbundle.form.type.mensajes:
+        class: Argidomin\AppBundle\Form\Admin\Type\MensajesType
+        arguments: ["@doctrine.orm.entity_manager"]
+        tags:
+            - { name: form.type }
+    Messages: "@argidomin_appbundle.form.type.mensajes"
